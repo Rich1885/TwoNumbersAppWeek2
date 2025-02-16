@@ -26,11 +26,11 @@ namespace TwoNumbersAppWeek2
 
                 if(!int.TryParse(txtFirstNum.Text, out int addNum1) )
                 {
-                    MessageBox.Show("Invalid input! Using default value 0 for First Number.");
+                    MessageBox.Show("PLEASE! Using default value 0 for First Number.");
                 }
                 if(!int.TryParse(txtSecondNum.Text, out int addNum2) )
                 {
-                    MessageBox.Show("Invalid input! Using default value 0 for First Number.");
+                    MessageBox.Show("PLEASE! Using default value 0 for First Number.");
                 }
 
                 twoNumbers.AddNumbers(addNum1, addNum2);
