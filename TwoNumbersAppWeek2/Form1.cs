@@ -19,9 +19,14 @@ namespace TwoNumbersAppWeek2
 
         private TwoNumbers twoNumbers;
 
+        
+
         private void btnAddNumbers_Click(object sender, EventArgs e)
         {
-            if(twoNumbers != null)
+
+            Console.WriteLine("Something");
+
+            if (twoNumbers != null)
             {
 
                 if(!int.TryParse(txtFirstNum.Text, out int addNum1) )
