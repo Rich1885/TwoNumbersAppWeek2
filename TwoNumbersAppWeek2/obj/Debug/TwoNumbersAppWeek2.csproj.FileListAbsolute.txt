@@ -1,0 +1,11 @@
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\bin\Debug\TwoNumbersAppWeek2.exe.config
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\bin\Debug\TwoNumbersAppWeek2.exe
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\bin\Debug\TwoNumbersAppWeek2.pdb
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\obj\Debug\TwoNumbersAppWeek2.csproj.AssemblyReference.cache
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\obj\Debug\TwoNumbersAppWeek2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\obj\Debug\TwoNumbersAppWeek2.Form1.resources
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\obj\Debug\TwoNumbersAppWeek2.Properties.Resources.resources
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\obj\Debug\TwoNumbersAppWeek2.csproj.GenerateResource.cache
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\obj\Debug\TwoNumbersAppWeek2.csproj.CoreCompileInputs.cache
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\obj\Debug\TwoNumbersAppWeek2.exe
+C:\Users\mecse\OneDrive - UHI\COMPUTING BSC DEGREE\SOFTWARECONSTRUCTION\TwoNumbersAppWeek2\TwoNumbersAppWeek2\obj\Debug\TwoNumbersAppWeek2.pdb
